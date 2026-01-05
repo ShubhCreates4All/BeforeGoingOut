@@ -1,0 +1,7 @@
+{
+  "name": "BeforeGoingOut AI Attire Engine",
+  "description": "A smart lifestyle & weather dashboard predicting outfits based on context.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
